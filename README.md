@@ -21,7 +21,7 @@ Use this template for each daily log:
 
 ### 📅 YYYY-MM-DD
 
-🎯 **Today I:**
+### 🎯 **Today I:**
 - 
 
 💡 **Key Takeaways:**
