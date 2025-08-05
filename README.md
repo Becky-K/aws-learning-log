@@ -17,8 +17,6 @@ Logs of what I'm learning day by day.
 
 Use this template for each daily log:
 
----
-
 ### 📅 YYYY-MM-DD
 
 ### 🎯 **Today I:**
