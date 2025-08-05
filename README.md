@@ -22,16 +22,14 @@ Use this template for each daily log:
 ### 📅 YYYY-MM-DD
 
 ### 🎯 **Today I:**
-- 
 
-💡 **Key Takeaways:**
-- 
+### 💡 **Key Takeaways:**
 
-😕 **Still Confused About:**
-- 
+### 😕 **Still Confused About:**
 
-🔁 **Tomorrow:**
-- 
+### 🔁 **Tomorrow:**
+
+--- 
 
 ## 📓 Glossary
 A running list of AWS terms explained in plain English.
